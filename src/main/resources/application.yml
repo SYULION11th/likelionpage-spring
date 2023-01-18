@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://likelion11th-page.cfivmtywflcn.us-east-1.rds.amazonaws.com:3306/sys?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    username: likelion
+    password: like3636!
